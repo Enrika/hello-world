@@ -1,2 +1,2 @@
 # hello-world
-Hoping I learn it better this time
+Oooh, should have done this the first time
